@@ -1,6 +1,8 @@
 <h1 align="center">Greeting, fellows! (*^‿^*)</h1>
 
-![image0 (5)](https://user-images.githubusercontent.com/90676575/185949644-85cab3f6-dfa9-463d-a897-09638f000764.jpeg)
+<p align="center">
+   <img width="500" height="30" src="https://user-images.githubusercontent.com/90676575/185949644-85cab3f6-dfa9-463d-a897-09638f000764.jpeg"
+        </p>
 
 
 
@@ -8,4 +10,6 @@
 
 
 
-![image0 (7)](https://user-images.githubusercontent.com/90676575/185954802-c9058cfd-b776-47c3-972c-31f53ff77da3.jpeg)
+<p align="center">
+  <img width="500" height="30" src="https://user-images.githubusercontent.com/90676575/185954802-c9058cfd-b776-47c3-972c-31f53ff77da3.jpeg"
+       </p>
