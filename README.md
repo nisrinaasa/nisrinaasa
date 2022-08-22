@@ -4,8 +4,7 @@
 
 
 
-<p align="center">I am Nisrina Asa Khairun Nisa, mostly known as <ins>Asa</ins> or <ins>Nisrina</ins>.</p>
-<p align="center">I am a 19 years old undergraduate student majoring in geophysics at Gadjah Mada University who just started getting into programming and coding. Was born and raised in Sleman, Yogyakarta and been having an interest in seismology since I was in 11th grade. </p>
+<p align="center">I am Nisrina Asa Khairun Nisa, mostly known as <ins>Asa</ins> or <ins>Nisrina</ins>. I am a 19 years old undergraduate student majoring in geophysics at Gadjah Mada University who just started getting into programming and coding. Was born and raised in Sleman, Yogyakarta and been having an interest in seismology since I was in 11th grade. </p>
 
 
 
