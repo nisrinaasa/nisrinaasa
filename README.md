@@ -4,7 +4,7 @@
    <img width="500" height="30" src="https://user-images.githubusercontent.com/90676575/185949644-85cab3f6-dfa9-463d-a897-09638f000764.jpeg"
         </p>
 
-<p align="center">My name is <b>Nisrina Asa Khairun Nisa</b> (you heard me correct, it's "Khairun Nisa" not "Khairunnisa." Don't ask me why though since I'm afraid I can't provide the most reasonable reason😅), mostly known as <ins>Asa</ins> or <ins>Nisrina</ins>. 
+<p align="center">My name is <b>Nisrina Asa Khairun Nisa</b> (you heard me correct, it's "Khairun Nisa" instead of "Khairunnisa." Don't ask me why though since I'm afraid I can't provide the most reasonable reason😅), mostly known as <ins>Asa</ins> or <ins>Nisrina</ins>. 
 </p>
 <p align="center">A 19 years old undergraduate student majoring in geophysics at Gadjah Mada University who just started getting into programming and coding. Was born and raised in Yogyakarta and also been having an interest in geoscience since 2018. 
 </p>
