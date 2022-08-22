@@ -13,7 +13,7 @@
   <img width="500" height="30" src="https://user-images.githubusercontent.com/90676575/185954802-c9058cfd-b776-47c3-972c-31f53ff77da3.jpeg"
        </p>
        
-<p align="center">Find me on my socials</p>
+<p align="center">Reach me on my socials</p>
 <div>
 <p align="center">
 <a href="https://www.instagram.com/nisrinaasa1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
