@@ -6,7 +6,7 @@
 
 <p align="center">My name is <b>Nisrina Asa Khairun Nisa</b> (you heard me correct, it's "Khairun Nisa"' not "Khairunnisa." Don't ask me why though since i'm afraid i can't give the most reasonable reason😅), mostly known as <ins>Asa</ins> or <ins>Nisrina</ins>. 
 </p>
-<p align="center">A 19 years old undergraduate student majoring in geophysics at Gadjah Mada University who just started getting into programming and coding. Was born and raised in Sleman, Yogyakarta and been having an interest in geoscience since 2018. 
+<p align="center">A 19 years old undergraduate student majoring in geophysics at Gadjah Mada University who just started getting into programming and coding. Was born and raised in Sleman, Yogyakarta and also been having an interest in geoscience since 2018. 
 </p>
 
   <p align="center">
